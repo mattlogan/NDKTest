@@ -1,8 +1,3 @@
-NDKTest
-=======
-
-Trivial NDK example adapted from Gradle samples
-
 ### Get started
 
 1. Download Android NDK here: https://developer.android.com/tools/sdk/ndk/index.html
